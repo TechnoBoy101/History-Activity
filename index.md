@@ -1,8 +1,10 @@
+<!DOCTYPE html>
 <html>
 <head>
 	<title>History activity</title>
 </head>
 <body>
+	<p>Civics Activity - 2</p>
 	<p>
 		Milk Society -<br><br>
 
@@ -19,8 +21,8 @@ A police station (sometimes called a "station house") is a building which serves
 Bank<br><br>
 
 A bank is a financial institution that accepts deposits from the public and creates a demand deposit while simultaneously making loans.[1] Lending activities can be performed either directly or indirectly through capital markets.
-</p>
-
+</p><br><br>
+<p>History Activity - 1</p><br><br>
 <p>
 The Quran<br><br>
 
@@ -41,7 +43,8 @@ The Bible (from Koine Greek τὰ βιβλία, tà biblía, "the books")[1][a] 
 Bhagvad Gita<br><br>
 
 The Bhagavad Gita (/ˌbʌɡəvəd ˈɡiːtɑː, -tə/; Sanskrit: भगवद् गीता, IAST: bhagavad-gītā /bɦɐɡɐʋɐd ɡiːtäː/, lit. "The Song of God"),[1] often referred to as the Gita, is a 700-verse Hindu scripture that is part of the epic Mahabharata (chapters 23–40 of Bhishma Parva), commonly dated to the second century BCE.
-</p>
+</p><br><br>
+<p>History Activity -2</p><br><br>
 <p>
 Jainism<br><br>
 <p>
