@@ -56,6 +56,4 @@ Buddhism<br><br>
 Buddhism (/ˈbʊdɪzəm/, US: /ˈbuːd-/)[1][2] is the world's fourth-largest religion[3][4] with over 520 million followers, or over 7% of the global population, known as Buddhists.[web 1][5] Buddhism encompasses a variety of traditions, beliefs and spiritual practices largely based on original teachings attributed to the Buddha and resulting interpreted philosophies. It originated in ancient India as a Sramana tradition sometime between the 6th and 4th centuries BCE, spreading through much of Asia. Two major extant branches of Buddhism are generally recognized by scholars: Theravada (Pali: "The School of the Elders") and Mahayana (Sanskrit: "The Great Vehicle").
 </p>
 
-	
-</body>
-</html>
+
